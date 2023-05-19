@@ -1,7 +1,7 @@
 # Short_Profile_Bio-website
 
 # The website deployed link is below.
-https://ruthvik-profile.netlify.app/
+https://ruthvik-profile.netlify.app/ 
 
 ## This is how the website's interface, which was created using HTML and CSS.
 
